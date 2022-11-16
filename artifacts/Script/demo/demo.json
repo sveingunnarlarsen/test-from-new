@@ -1,0 +1,20 @@
+{
+	"id": "159cc6e9-7e1b-450f-afcb-0bb9f0cf775b",
+	"createdAt": "2022-11-15T11:42:59.830Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "demo",
+	"ver": "22.11.15.1149",
+	"description": null,
+	"content": "file:///content.script",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "445b0974-0e51-4e7a-9da6-f038645b41b8",
+	"package": "e844c8e8-a21a-4870-a2bc-95f0fd03c9ac"
+}

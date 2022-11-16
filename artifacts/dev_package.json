@@ -1,0 +1,63 @@
+{
+	"id": "e844c8e8-a21a-4870-a2bc-95f0fd03c9ac",
+	"createdAt": "2022-11-15T11:21:30.662Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/sveingunnarlarsen/test-from-new.git"
+	},
+	"name": "dxp-22-demo",
+	"description": null,
+	"ver": "22.11.16.1023",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "e18850f3-e7ce-498a-bcc6-4b23c4486991",
+			"application": "dxp22demo",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "dcc511b4-8fb8-49f4-92cd-f69ee7c135c0",
+			"application": "dxp22demolist",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [
+		{
+			"id": "159cc6e9-7e1b-450f-afcb-0bb9f0cf775b",
+			"name": "demo",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "445b0974-0e51-4e7a-9da6-f038645b41b8",
+			"name": "dxp22demo",
+			"description": null
+		}
+	],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": []
+}
